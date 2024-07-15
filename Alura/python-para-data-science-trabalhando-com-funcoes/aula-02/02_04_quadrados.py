@@ -6,6 +6,7 @@ Curso: Python para Data Science: trabalhando com funções, estruturas de dados 
 Autor: Victor Sabino
 Data: 13/07/2024
 '''
+
 from math import pow
 
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
